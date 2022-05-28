@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace AddNestedIssue
+namespace AddNestedIssue.Models
 {
     public partial class Employee
     {
